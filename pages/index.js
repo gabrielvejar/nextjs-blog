@@ -29,7 +29,6 @@ export default function Home({ allPostsData }) {
           habilidades. Conecta conmigo en LinkedIn para conocer más sobre mi
           experiencia y proyectos.
         </p>
-        <h3>TEST UPDATE MAIN</h3>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
